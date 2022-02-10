@@ -1,0 +1,963 @@
+@media (min-width:320px) and (max-width:575px) {
+
+    header .button {
+        text-align: left;
+    }
+    header .button a {
+        margin: 8px 5px;
+        display: inline-block;
+    }
+    .navbar-toggler{
+      color: #000 !important;
+    }
+    .collapsed{
+      color: #000 !important;
+    }nav .navbar-brand {
+        font-size: 38px !important;
+    }
+    nav ul li .dropdown {
+        width: 188px;
+        right: 0;
+    }nav ul li .dropdown ul li {
+        padding: 10px 0px 10px 10px;
+    }nav .bar {
+        position: absolute;
+        right: 28px;
+        z-index: 999;
+        bottom: 15px;
+    }nav .sea {
+        margin-left: 20px;
+    }.search-box {
+        top: 100%;
+    }#banner .banner-item {
+        height: 500px;
+    }
+    #banner .banner-item h1 {
+        font-size: 32px;
+        padding-left: 0; 
+        padding-right: 0;
+        left: 9px;
+    }
+    #banner .banner-item p {
+        font-size: 19px;
+        top: 215px;
+        left: 17px;
+        padding-left: 0; 
+      width: auto; 
+    }
+    @keyframes spt {
+        from {
+          left: 200px;
+        }
+      
+        to {
+          left: 17px;
+        }
+      }
+    #banner .banner-item a {
+        bottom: 100px;
+        left: -73px;
+    }
+    @keyframes bottom {
+        from {
+          bottom: 0;
+        }
+      
+        to {
+          bottom: 100px;
+        }
+      }
+      #award {
+        padding-bottom: 50px;
+    }#award p::after {
+        width: 40px;
+        left: 264px;
+        bottom: 2px;
+    }#award h3 {
+        font-size: 30px;
+    }#award h6 {
+        margin-top: 15px;
+        padding-left: 12px;
+    }#banner .next {
+        top: 88%;
+    }
+#banner .prev{
+        top: 88%;
+    }#tilt {
+        height: 255px;
+        width: 100%;
+        top: 15px;
+        left: 0;
+    }#delivery .delivery-item {
+        margin-top: 50px;
+    }#delivery .truck {
+        left: 15px;
+        top: 112%;
+    }@keyframes gari {
+        from {
+            left: 15px;
+        }
+        to {
+            left: 150px;
+        }
+      }#about .rot {
+        display: none;
+    }#about .fir{
+            width: 100%;
+            margin-top: 160px;
+    }#about .s-box {
+        width: 250px;
+        padding: 15px 0;
+        top: 375px;
+        padding-left: 6px;
+        z-index: 999;
+        left: 60px;
+        text-align: center;
+    }#about p {
+        margin-top: 70px;
+    }#about h2 {
+        font-size: 30px;
+    }#about ul li span {
+        margin-left: 25px;
+    }#about h6 {
+        font-size: 15px;
+    }#about .sign{
+        margin-top: 30px;
+    }#offer {
+        margin-top: 50px;
+        margin-bottom: 60px
+    }#offer .left {
+        text-align: left;
+        padding-right: 0;
+    }#offer .left h2 {
+        font-size: 30px;
+    }#offer .left::after {
+        top: -25px;
+    }#offer .para {
+        padding-left: 0;
+        margin-top: 15px;
+    }#offer2 .offer-part{
+        margin-bottom: 20px;
+    }#offer2 .item2 .text h3 {
+        font-size: 30px;
+    }#offer2 .click {
+        margin: 40px 0;
+    }#request .form-up {
+        top: -280px;
+        padding: 15px;
+        padding-top: 30px;
+        padding-bottom: 12px;
+    }#request .form-up h2 {
+        font-size: 32px;
+    }#request .form-up form select {
+        font-size: 14px;
+    }#request {
+        padding-bottom: 20px;
+    }
+    #request .person {
+        left: 0;
+        top: 340px;
+    }@keyframes ppp {
+        from {
+         top: 340px;
+        }
+        to {
+          top: 380px;
+        }
+      }#member {
+        margin-bottom: 40px;
+    }#member .left {
+          text-align: left;
+          padding-right: 0;
+      }
+      #member .left h2 {
+        font-size: 30px;
+    }#member .left::after {
+        height: 70px;
+        top: -4px;
+    }#member .para {
+        font-size: 15px;
+        padding-left: 0;
+        margin-top: 15px;
+    }#member .mem-main{
+        margin: 20px 0;
+    }
+    #member .mem-item {
+        margin-top: 0;
+    }#img-slider {
+        margin-bottom: 40px;
+    }#check {
+        padding-top: 40px;
+    }#check .left {
+        padding-right: 0px;
+    }#check .left h2 {
+        font-size: 30px;
+        width: 100%;
+    }#check .check-main .n-arrow {
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+        font-size: 25px;
+        top: -65px;
+        right: 80px;
+    }#check .check-main .p-arrow {
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+        font-size: 25px;
+        top: -65px;
+        left: 80px;
+    }#check .check-main .check-item .text h3 {
+        font-size: 30px;
+        width: 100%;
+    }#testimonial {
+        padding: 50px 0;
+    }#testimonial .tes-head h3 {
+        font-size: 30px;
+        padding: 0;
+        margin-bottom: 50px;
+    }#testimonial .tes-item p {
+        font-size: 15px;
+        padding: 0 5px;
+    }#fast .ani-img {
+        left: 26px;
+      }
+      @keyframes left {
+        from {
+          left: 26px;
+        }
+        to {
+          left: -30px;
+        }
+      }#fast {
+        margin-bottom: 50px;
+    }
+      #fast .overlay {
+        padding-top: 50px;
+        padding-bottom: 20px;
+    }#fast .overlay .left h2 {
+        font-size: 30px;
+        width: 100%;
+    }#fast .left p {
+        font-size: 15px;
+        width: 100%;
+        margin-top: 30px;
+    }#fast .left .pop {
+        margin: 40px 0;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+   #img-slider .img-item{
+       margin: 0 70px;
+   } 
+    #update .u-left h3 {
+        font-size: 30px;
+        width: 100%;
+    }#update .u-right {
+        text-align: center;
+    }#update .u-right a {
+        margin-top: 0px;margin-bottom: 20px;
+    }#update .u-main {
+        margin: 15px 0;
+    }#update .u-item .right {
+        margin-top: -34px;
+    }#update {
+        margin-bottom: 50px;
+    }#footer {
+        padding-top: 60px;
+    }#footer .f-mid ul {
+        margin-top: 30px;
+        text-align: left;
+        padding-right: 0;
+    }#footer .f-mid ul li:hover {
+        margin-left: 9px;
+      }#footer .f-mid h4 {margin-top: 20px;
+        margin-left: 20px;
+    }#footer .f-last p {
+        font-size: 15px;
+    }#footer .f-last form {
+        width: 100%;
+    }#footer .nouka {right: 0;
+      }
+      @keyframes nou {
+        from {
+          right:0;
+        }
+        to {
+          right: 170px;
+        }
+      }#fast .overlay .left{
+          padding-left: 10px;
+      }
+      #fast .overlay .left h6 {
+        padding-left: 50px;
+    }#fast .left h6::after {
+        left: 0px;
+    }
+
+    /* ===================================================================== */
+}
+
+/* =============================================== */
+@media (min-width:576px) and (max-width:767px) {
+
+    header .button {
+        text-align: left;
+    }
+    header .button a {
+        margin: 8px 5px;
+        display: inline-block;
+    }
+    .navbar-toggler{
+      color: #000 !important;
+    }
+    .collapsed{
+      color: #000 !important;
+    }nav .navbar-brand {
+        font-size: 40px !important;
+    }
+    nav ul li .dropdown {
+        width: 188px;
+        right: 0;
+    }nav ul li .dropdown ul li {
+        padding: 10px 0px 10px 10px;
+    }nav .bar {
+        position: absolute;
+        right: 28px;
+        z-index: 999;
+        bottom: 15px;
+    }nav .sea {
+        margin-left: 20px;
+    }.search-box {
+        top: 100%;
+        right: 52%;
+    }#banner .banner-item {
+        height: 500px;
+    }
+    #banner .banner-item h1 {
+        font-size: 40px;
+        padding-left: 0;
+        padding-right: 0;
+        left: 80px;
+        width: auto;
+    }
+    #banner .banner-item p {
+        font-size: 19px;
+        top: 215px;
+        left: 80px;
+        padding-left: 0;
+        width: auto;
+    }
+    @keyframes spt {
+        from {
+          left: 200px;
+        }
+      
+        to {
+          left: 80px;
+        }
+      }
+      #banner .banner-item a {
+        bottom: 140px;
+        margin-left: 80px;
+    }
+    @keyframes bottom {
+        from {
+          bottom: 0;
+        }
+      
+        to {
+          bottom: 140px;
+        }
+      }
+      #award {
+        padding-bottom: 50px;
+    }#award p::after {
+        width: 40px;
+        left: 264px;
+        bottom: 2px;
+    }#award h3 {
+        font-size: 35px;
+    }#award h6 {
+        margin-top: 25px;
+        padding-left: 12px;
+    }#banner .next {
+        top: 38%;
+    }
+#banner .prev{
+        top: 38%;
+    }#tilt {
+        height: 320px;
+        width: 100%;
+        top: 15px;
+        left: 0;
+    }#delivery .delivery-item {
+        margin-top: 50px;
+    }#delivery .truck {
+        left: 15px;
+        top: 118%;
+        animation: gari 5s infinite;
+    }@keyframes gari {
+        from {
+            left: 15px;
+        }
+        to {
+            left:420px;
+        }
+      }#about .rot {
+        top: 237px;
+        left: 0px;
+        width: 280px;
+    }#about .fir{
+            width: 100%;
+            margin-top: 160px;
+    }#about .s-box {
+        width: 250px;
+        padding: 15px 0;
+        position: static;
+        text-align: center;
+        margin: 0 auto;
+        margin-top: 30px;
+    }#about p {
+        margin-top: 70px;
+    }#about h2 {
+        font-size: 35px;
+    }#about ul li span {
+        margin-left: 25px;
+    }#about h6 {
+        font-size: 15px;
+    }#about .sign {
+        margin-top: 0px;
+        margin-left: 130px;
+    }#offer {
+        margin-top: 50px;
+        margin-bottom: 60px
+    }#offer .left {
+        text-align: left;
+        padding-right: 0;
+    }#offer .left h2 {
+        font-size: 35px;
+    }#offer .left::after {
+        top: -25px;
+    }#offer .para {
+        padding-left: 0;
+        margin-top: 15px;
+    }#offer2 .offer-part{
+        margin-bottom: 20px;
+    }#offer2 .item2 .text h3 {
+        font-size: 35px;
+    }#offer2 .click {
+        margin: 40px 0;
+    }#request .form-up {
+        top: -280px;
+        padding: 15px;
+        padding-top: 30px;
+        padding-bottom: 12px;
+    }#request .form-up h2 {
+        font-size: 42px;
+    }#request .form-up form select {
+        font-size: 16px;
+    }#request {
+        padding-bottom: 100px;
+    }#request .right-div i {
+        left: 50%;
+        transform: scale(1) translateX(-50%);
+    }#request .right-div:hover i {
+        left: 50%;
+        transform: scale(1.3) translateX(-50%);
+    }
+    #request .person {
+        left: 180px;
+        top: 320px;
+    }@keyframes ppp {
+        from {
+         top: 320px;
+        }
+        to {
+          top: 290px;
+        }
+      }#member {
+        margin-bottom: 40px;
+    }#member .left {
+          text-align: left;
+          padding-right: 0;
+      }
+      #member .left h2 {
+        font-size: 30px;
+    }#member .left::after {
+        height: 70px;
+        top: -4px;
+    }#member .para {
+        font-size: 15px;
+        padding-left: 0;
+        margin-top: 15px;
+    }#member .mem-main{
+        margin: 20px 0;
+    }
+    #member .mem-item {
+        margin-top: 0;
+    }#img-slider {
+        margin-bottom: 40px;
+    }#check {
+        padding-top: 40px;
+    }#check .left {
+        padding-right: 0px;
+    }#check .left h2 {
+        font-size: 35px;
+        width: 100%;
+    }#check .check-main .check-item:hover .text {
+        left: 25px;
+    }
+    #check p::after {
+        left: 166px;
+        bottom: 10px;
+    }
+    #check .check-main .n-arrow {
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+        font-size: 25px;
+        top: -65px;
+        right: 36%;
+        transform: translateX(-50%);
+    }#check .check-main .p-arrow {
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+        font-size: 25px;
+        top: -65px;
+        left: 44%;
+        transform: translateX(-50%);
+    }#check .check-main .check-item .text h3 {
+        font-size: 35px;
+        width: 100%;
+    }#testimonial {
+        padding: 50px 0;
+    }#testimonial .tes-head h3 {
+        font-size: 30px;
+        padding: 0;
+        margin-bottom: 50px;
+    }#testimonial .tes-item p {
+        font-size: 15px;
+        padding: 0 5px;
+    }#fast .ani-img {
+        left: 57px;
+      }
+      @keyframes left {
+        from {
+          left: 57px;
+        }
+        to {
+          left: -57px;
+        }
+      }#fast {
+        margin-bottom: 50px;
+    }
+      #fast .overlay {
+        padding-top: 50px;
+        padding-bottom: 20px;
+    }#fast .overlay .left h2 {
+        font-size: 35px;
+        width: 100%;
+    }#fast .left p {
+        font-size: 16px;
+        width: 100%;
+        margin-top: 30px;
+    }#fast .left .pop {
+        margin: 40px 0;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    #img-slider .img-item{
+        margin: 0 40px;
+    }
+    #update .u-left h3 {
+        font-size: 35px;
+        width: 100%;
+    }#update .u-right {
+        text-align: center;
+    }#update .u-right a {
+        margin-top: 0px;margin-bottom: 20px;
+    }#update .u-main {
+        margin: 15px 0;
+    }#update .u-item .right {
+        margin-top: -34px;
+    }#update {
+        margin-bottom: 50px;
+    }#footer {
+        padding-top: 60px;
+    }#footer .f-mid ul {
+        margin-top: 30px;
+        text-align: left;
+        padding-right: 0;
+    }#footer .f-mid ul li:hover {
+        margin-left: 9px;
+      }#footer .f-mid h4 {margin-top: 20px;
+        margin-left: 20px;
+    }#footer .f-last p {
+        font-size: 16px;
+    }#footer .f-last form {
+        width: 100%;
+    }#footer .f-last .submit {
+        margin-bottom: 65px;
+    }
+    #footer .nouka {right: 5px;   animation: nou 4s infinite alternate;
+      }
+
+      @keyframes nou {
+        from {
+          right:0;
+        }
+        to {
+          right: 120px;
+        }
+      }#fast .overlay .left{
+          padding-left: 10px;
+      }
+      #fast .overlay .left h6 {
+        padding-left: 50px;
+    }#fast .left h6::after {
+        left: 0px;
+    }
+    /* ===================================================================== */
+}
+/* ==================================================== */
+@media (min-width:768px) and (max-width:991px) {
+
+    header .button {
+        text-align: left;
+    }
+    header .button a {
+        margin: 8px 5px;
+        display: inline-block;
+    }
+    .navbar-toggler{
+      color: #666666 !important;
+    }
+    .collapsed{
+      color: #000 !important;
+    }nav .navbar-brand {
+        font-size: 43px !important;
+    }nav button i{
+        font-size: 30px;
+        color: #666666;
+    } 
+       nav ul li .dropdown {
+        width: 188px;
+        right: 0;
+    }nav ul li .dropdown ul li {
+        padding: 10px 0px 10px 10px;
+    }nav .bar {
+        position: absolute;
+        right: 28px;
+        z-index: 999;
+        bottom: 15px;
+    }nav .sea {
+        margin-left: 20px;
+    }.search-box {
+        top: 100%;
+        right: 52%;
+    }#banner .banner-item {
+        height: 500px;
+    }
+    #banner .banner-item h1 {
+        font-size: 43px;
+        padding-left: 0;
+        padding-right: 0;
+        left: 80px;
+        width: 600px;
+    }
+    #banner .banner-item p {
+        font-size: 20px;
+        top: 215px;
+        left: 80px;
+        padding-left: 0;
+        width: 60%;
+    }
+    @keyframes spt {
+        from {
+          left: 200px;
+        }
+      
+        to {
+          left: 80px;
+        }
+      }
+      #banner .banner-item a {
+        bottom: 140px;
+        margin-left: 80px;
+    }
+    @keyframes bottom {
+        from {
+          bottom: 0;
+        }
+      
+        to {
+          bottom: 140px;
+        }
+      }
+      #award {
+        padding-bottom: 50px;
+    }#award p::after {
+        width: 40px;
+        left: 264px;
+        bottom: 2px;
+    }#award h3 {
+        font-size: 32px;
+    }#award h6 {
+        margin-top: 25px;
+        padding-left: 12px;
+        font-size: 15px;
+    }#banner .next {
+        top: 38%;
+    }
+#banner .prev{
+        top: 38%;
+    }#tilt {
+        height: 400px;
+        width: 100%;
+        top: 15px;
+        left: 0;
+    }#delivery .delivery-item {
+        margin-top: 50px;
+    }#delivery .truck {
+        left: 1%;
+        top: 118%;animation: gari 5s infinite;
+    }@keyframes gari {
+        from {
+            left: 1%;
+        }
+        to {
+            left: 78%;
+        }
+      }#about .rot {
+        top: 265px;
+        left: 0;
+    }#about .fir{
+            width: 100%;
+            margin-top: 160px;
+    }#about .s-box {
+        width: 250px;
+        padding: 15px 0;
+        top: 797px;
+        z-index: 9999;
+        left: 505px;
+        text-align: center;
+    }#about p {
+        margin-top: 70px;
+    }#about h2 {
+        font-size: 43px;
+    }#about ul li span {
+        margin-left: 25px;
+    }#about h6 {
+        font-size: 16px;
+    }#about .sign {
+        margin-top: 0px;
+        margin-left: 300px;
+    }#offer {
+        margin-top: 50px;
+        margin-bottom: 60px;
+        padding: 40px 0;
+    }#offer2 {
+        top: 0;
+    }
+    #offer .left {
+        text-align: left;
+        padding-right: 0;
+        margin-top: 20px;
+    }#offer .left h2 {
+        font-size: 36px;
+    }#offer .left::after {
+        top: 0;
+        right: -15px;
+    }#offer .para {
+        padding-left: 0;
+        margin-top: 15px;
+    }#offer2 .offer-part{
+        margin-bottom: 40px;
+    }#offer2 .item2 .text h3 {
+        font-size: 35px;
+    }#offer2 .click {
+        margin: 40px 0;
+    }#request .form-up h2::after {
+        left: -15px;
+    }
+    #request .form-up {
+        top: 0;
+        padding: 15px;
+        padding-top: 30px;
+        padding-bottom: 12px;
+    }#request .form-up h2 {
+        font-size: 43px;
+        padding-left: 30px;
+    }#request .form-up form select {
+        font-size: 16px;
+    }#request {
+        padding-bottom: 100px;
+    }#request .right-div i {
+        left: 50%;
+        transform: scale(1) translateX(-50%);
+    }#request .right-div:hover i {
+        left: 50%;
+        transform: scale(1.3) translateX(-50%);
+    }
+    #request .person {
+        left: 425px;
+        top: 170px;
+    }@keyframes ppp {
+        from {
+         top: 200px;
+        }
+        to {
+          top: 110px;
+        }
+      }#member {
+        margin-bottom: 40px;
+    }#member .left {
+        text-align: left;
+        padding-right: 0;
+        margin-top: 20px;
+    }
+    #member .left p {
+        font-size: 16px;
+        margin-bottom: 6px;
+    }
+      #member .left h2 {
+        font-size: 35px;
+    }#member .left::after {
+        height: 86px;
+        top: 0px;
+    }#member .para {
+        font-size: 15px;
+        padding-left: 0;
+        margin-top: 15px;
+    }#member .mem-main{
+        margin: 20px 0;
+    }
+    #member .mem-item {
+        margin-top: 0;
+    }#img-slider {
+        margin-bottom: 40px;
+    }#check {
+        padding-top: 40px;
+    }#check .left {
+        padding-right: 250px;
+    }#check p::after {
+        left: 170px;
+    }
+    #check .left h2 {
+        font-size: 30px;
+        width: 100%;
+    }#check .check-main .check-item:hover .text {
+        left: 25px;
+    }#check .check-main {
+        margin-top: 40px;
+    }
+    #check .check-main .n-arrow {
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+        font-size: 25px;
+        top: -120px;
+        right: 15%;
+        transform: translateX(-50%);
+    }#check .check-main .p-arrow {
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+        font-size: 25px;
+        top: -120px;
+        left: 69%;
+        transform: translateX(-50%);
+    }#check .check-main .check-item .text h3 {
+        font-size: 35px;
+        width: 100%;
+    }#testimonial {
+        padding: 50px 0;
+    }#testimonial .tes-head h3 {
+        font-size: 30px;
+        padding: 0;
+        margin-bottom: 50px;
+    }#testimonial .tes-item p {
+        font-size: 15px;
+        padding: 0 5px;
+    }#fast .ani-img {
+        left: 57px;
+      }
+      @keyframes left {
+        from {
+          left: 57px;
+        }
+        to {
+          left: -57px;
+        }
+      }#fast {
+        margin-bottom: 50px;
+    }
+      #fast .overlay {
+        padding-top: 50px;
+        padding-bottom: 20px;
+    }#fast .overlay .left h2 {
+        font-size: 35px;
+        width: 100%;
+    }#fast .left p {
+        font-size: 16px;
+        width: 100%;
+        margin-top: 30px;
+    }#fast .left .pop {
+        margin: 40px 0;
+        left: 0%;
+    }#fast .ani-img img {
+        margin-top: 31px;
+    }
+    #update .u-left h3 {
+        font-size: 35px;
+        width: 100%;
+    }#update .u-right {
+        text-align: right;
+        margin-top: 40px;
+    }#update .u-right a {
+        margin-top: 0px;margin-bottom: 20px;
+    }#update .u-main {
+        margin: 15px 0;
+    }#update .u-item .right {
+        margin-top: -34px;
+    }#update {
+        margin-bottom: 50px;
+    }#footer {
+        padding-top: 60px;
+    }#footer .f-mid ul {
+        margin-top: 30px;
+        text-align: left;
+        padding-right: 0;
+    }#footer .f-mid ul li:hover {
+        margin-left: 9px;
+      }#footer .f-mid h4 {margin-top: 20px;
+        margin-left: 20px;
+    }#footer .f-last p {
+        font-size: 16px;
+    }#footer .f-last form {
+        width: 100%;
+    }#footer .nouka {right: 5px;   animation: nou 4s infinite alternate;
+      }
+
+      @keyframes nou {
+        from {
+          right:0;
+        }
+        to {
+          right: 120px;
+        }
+      }#fast .overlay .left{
+          padding-left: 10px;
+      }
+      #fast .overlay .left h6 {
+        padding-left: 50px;
+    }#fast .left h6::after {
+        left: 0px;
+    }
+    #footer .f-last .submit {
+        margin-bottom: 0px;
+    }
+    /* ===================================================================== */
+}
